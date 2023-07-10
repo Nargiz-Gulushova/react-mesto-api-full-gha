@@ -1,0 +1,12 @@
+.popup__figure {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+@media screen and(min-width:1280px) {
+  .popup__figure {
+    max-width: 816px;
+    max-height: 540px;
+  }
+}

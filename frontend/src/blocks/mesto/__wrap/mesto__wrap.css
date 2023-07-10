@@ -1,0 +1,11 @@
+.mesto__wrap {
+  background-color: #ffffff;
+  color: black;
+  min-height: 79px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 21px;
+  padding-right: 15px;
+
+}

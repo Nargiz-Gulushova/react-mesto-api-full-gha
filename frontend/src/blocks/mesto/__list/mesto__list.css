@@ -1,0 +1,18 @@
+.mesto__list {
+  margin: 0;
+  padding: 0 19px;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 282px);
+  grid-template-rows: repeat(auto-fit, 361px);
+  gap: 20px 17px;
+  justify-content: center;
+  align-items: stretch;
+}
+
+@media screen and (min-width: 1000px) {
+  .mesto__list {
+    grid-template-columns: repeat(3, 282px);
+  }
+
+}

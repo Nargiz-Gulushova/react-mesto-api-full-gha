@@ -1,0 +1,18 @@
+.mesto__like-button {
+  padding: 0;
+  margin: 0;
+  background-image: url(../../../images/like-button.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+  background-position: center center;
+  border: none;
+  width: 22px;
+  height: 19px;
+  cursor: pointer;
+  transition: opacity .5s ease;
+}
+
+.mesto__like-button:hover {
+  opacity: 60%;
+}

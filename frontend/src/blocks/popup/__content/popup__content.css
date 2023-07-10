@@ -1,0 +1,16 @@
+.popup__content {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px 22px;
+  margin: 0;
+}
+
+@media screen and (min-width: 1280px) {
+  .popup__content {
+    width: 430px;
+    padding: 34px 36px 37px;
+  }
+}

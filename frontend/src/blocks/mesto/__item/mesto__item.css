@@ -1,0 +1,7 @@
+.mesto__item {
+  margin: 0 auto;
+  border-radius: 10px;
+  overflow: hidden;
+  align-items: stretch;
+  position: relative;
+}

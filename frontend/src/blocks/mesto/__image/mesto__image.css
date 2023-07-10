@@ -1,0 +1,7 @@
+.mesto__image {
+  width: 282px;
+  height: 282px;
+  display: block;
+  cursor: pointer;
+  object-fit: cover;
+}
